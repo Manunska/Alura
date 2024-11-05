@@ -1,9 +1,21 @@
 body{
-    color :blanchedalmond
-    background :antiquewhite
+    color :thistle
+    background :mistyrose
     front - family : "Anton SC"  sans - serif;
     margin : 0px;
     margin - bottom : 100px;
 
 
+}
+.chamada{
+    background-color: rgb(238, 146, 146);
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+heater{
+    color: antiquewhite;
+    font-size: 40px;
+    border-bottom: sold 3px lightpink;
+    padding: 20px;
 }
